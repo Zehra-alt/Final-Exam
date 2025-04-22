@@ -1,1 +1,2 @@
 [22-Apr-2025 22:59:33 UTC] PHP Warning:  Undefined array key "host" in /workspaces/Final-Exam/.wordpress/wp-includes/pluggable.php on line 1640
+[22-Apr-2025 23:05:26 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Final-Exam/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
