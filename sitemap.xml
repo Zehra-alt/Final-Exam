@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/art-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tea-packet-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/crochet-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/watercolour-paint-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/bob-ross-chia-plant-kit/
         </loc>
     </url>
     <url>
